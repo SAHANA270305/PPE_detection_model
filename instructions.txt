@@ -1,0 +1,4 @@
+Develop ur dataset by either importing from roboflow or taking multiple pics of the required data in various conditions use websites such as labelmg to annotate the images and convert it into yolo format.
+Use built yolo algorithm from GitHub and follow the following code by uploading the zip file containing the dataset(train,test,valid each with their images and labels).
+-------------------------------------------------------------
+Upload best.pt to the colab, call the GitHub repo and install all requirements call the statement to detect the images.
