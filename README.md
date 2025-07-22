@@ -59,6 +59,8 @@ This project automates the detection of essential Personal Protective Equipment 
 - Accurately detects all five PPE categories.
 - Real-time inference supported on GPU systems.
 - Outputs include bounding boxes, labels, and confidence scores.
+  <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/2f2d4509-2424-4aad-9e22-720cebedec0c" />
+
 
 ## 🔮 Future Scope
 
